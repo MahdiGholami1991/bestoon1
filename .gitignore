@@ -1,4 +1,5 @@
 #comment
 
+*.pyc
 password.txt
 test
